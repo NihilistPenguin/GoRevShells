@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
 # GoRevShells
-Basic reverse shell for linux and windows written in Go. Based off of @yougg's https://gist.github.com/yougg/b47f4910767a74fcfe1077d21568070e
+Basic reverse shells for linux and windows written in Go. Based off of @yougg's https://gist.github.com/yougg/b47f4910767a74fcfe1077d21568070e
 
 ## How to run (basic compilation; plenty of guides online on how to specify target operating system & architecture)
 ```
