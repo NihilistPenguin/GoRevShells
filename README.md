@@ -25,6 +25,7 @@ On target machine: `$ .\winrev IP:PORT` or `$ .\linrev` (uses value set in *cons
 
 
 ## TODO:
-- add parameter for verbose output
+- add option for verbose output
 - test it with obfuscator against Windows Defender
+- add functionality for upload/download?
 - other stuff I can't think of right now
