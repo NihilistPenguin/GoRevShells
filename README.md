@@ -26,6 +26,7 @@ On target machine: `$ .\winrev IP:PORT` or `$ .\linrev` (uses value set in *cons
 
 ## TODO:
 - add option for verbose output
+- make it not infinitely attempt to dial
 - test it with obfuscator against Windows Defender
 - add functionality for upload/download?
 - other stuff I can't think of right now
